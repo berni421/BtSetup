@@ -9,8 +9,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Dropbox/Documents/AndroidStudioProjects/BtSetup" />
-            <option value="$USER_HOME$/Dropbox/Documents/AndroidStudioProjects/BtSetup/app" />
+            <option value="$USER_HOME$/Documents/AndroidStudioProjects/BtSetup" />
+            <option value="$USER_HOME$/Documents/AndroidStudioProjects/BtSetup/app" />
           </set>
         </option>
       </GradleProjectSettings>
